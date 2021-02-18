@@ -108,7 +108,7 @@ namespace Teleg_Bot
 
 
     public class Messenger
-    {   
+    {
         public string CreateTextMessage(Conversation chat)
         {
             var text = "";
